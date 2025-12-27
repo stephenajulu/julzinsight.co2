@@ -7,7 +7,7 @@ sections:
     title: >-
       Sovereign, Scalable Infrastructure for Visionary Businesses
     content: >-
-      **[Book a consult →](/contact/).**
+      **[Book a consult →](/contact/)**
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
