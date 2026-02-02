@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable Infrastructure for Visionary Businesses
+      Scalable, Sovergn Infrastructure for Visionary Enterprises
     content: >-
       **[Book a consultation →](/contact/)**
   - type: portfolio_section
@@ -13,14 +13,14 @@ sections:
     layout_style: tiles
     title:
     subtitle:
-    projects_number: 6
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
     content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell us more
       about your project by getting started below.
     actions:
       - label: Let's start
@@ -30,7 +30,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Julz Insight
   description: >-
     We are a brand and design practice. We work closely with you, your team to
     deliver inspiring work, which enables your organization to grow.
