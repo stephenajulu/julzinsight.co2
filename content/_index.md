@@ -8,6 +8,21 @@ sections:
       Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
     content: >-
       We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
+  - type: grid_section
+    section_id: solutions
+    title: Welcome to the Sovereign Stack.
+    subtitle: Julz Insight replaces your expensive, scattered SaaS subscriptions with a powerful, open-source infrastructure that lives on your private cloud. We don't just sell software. We sell Digital Independence.
+    col_number: two
+    grid_items:
+      - title: The Digital HQ (Managed Nextcloud)
+        image: images/service-1.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/mosbi
+            style: link
+        content: >-
+          Your private cloud for files, photos, and collaboration. Replace Google Drive/Dropbox.
+            - Benefit: Unlimited users. Flat pricing. Total privacy.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
