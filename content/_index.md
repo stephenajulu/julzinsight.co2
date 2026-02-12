@@ -10,7 +10,7 @@ sections:
       We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title:
     subtitle:
     projects_number: 4
