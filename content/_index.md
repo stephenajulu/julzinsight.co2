@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Scalable, Sovergn Infrastructure for Visionary Enterprises
+      Scalable, Sovereign Digital Infrastructure for Visionary Enterprises
     content: >-
       **[Book a consultation →](/contact/)**
   - type: portfolio_section
