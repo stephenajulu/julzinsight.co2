@@ -78,17 +78,16 @@ sections:
     view_all_url: portfolio
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Ready to evict your landlords?
     content: >-
-      Say hello at [info@julzinsight.co](mailto:info@julzinsight.co) or tell us more
-      about your project by getting started below.
+      Let’s build your infrastructure.
     actions:
-      - label: Let's start
+      - label: Get Your Free 15-Minute Strategy Audit
         url: /contact
         style: button
     image: images/cta.svg
     image_alt: Illustration
-    bg_color: light
+    bg_color: dark
 seo:
   title: Julz Insight
   description: >-
