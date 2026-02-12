@@ -8,6 +8,14 @@ sections:
       Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
     content: >-
       We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title:
+    subtitle:
+    projects_number: 4
+    view_all_label: View All
+    view_all_url: portfolio
   - type: grid_section
     section_id: solutions
     title: Welcome to the Sovereign Stack.
