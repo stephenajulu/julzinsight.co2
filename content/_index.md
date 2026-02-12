@@ -86,7 +86,7 @@ sections:
     content: >-
       Let’s build your infrastructure.
     actions:
-      - label: Get Your Free 15-Minute Strategy Audit
+      - label: Get Your Free Strategy Audit
         url: /contact
         style: button
     image: images/cta.svg
