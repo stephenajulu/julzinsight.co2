@@ -23,7 +23,7 @@ sections:
     col_number: three
     grid_items:
       - title: The Digital HQ (Managed Nextcloud)
-        image: images/service-1.svg
+        image: images/service1.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -32,7 +32,7 @@ sections:
           Your private cloud for files, photos, and collaboration. Replace Google.
             - Benefit: Unlimited users. Flat pricing. Total privacy.
       - title: The Command Center (Managed ERP)
-        image: images/service-2.svg
+        image: images/service2.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -41,7 +41,7 @@ sections:
           One dashboard for CRM, Invoicing, and Inventory. Replace the spreadsheet chaos.
             - Benefit: See your cash flow in real-time. Maintain a client list.
       - title: The Digital Storefront (Managed Web)
-        image: images/service-3.svg
+        image: images/service3.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -50,7 +50,7 @@ sections:
           Lightning-fast websites and blogs that you truly own. Replace Wix/Squarespace.
             - Benefit: Load in <2 seconds. No platform risk.
       - title: The War Room (Secure Chat)
-        image: images/service-3.svg
+        image: images/service4.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -59,7 +59,7 @@ sections:
           Encrypted team chat and video for focused work. Replace WhatsApp for Business.
             - Benefit: Keep company secrets safe. Separate work from life.
       - title: The Iron Gate (Password Vault)
-        image: images/service-2.svg
+        image: images/service5.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -68,7 +68,7 @@ sections:
           Enterprise-grade password security. Replace sticky notes and "Password123".
             - Benefit: Control employee access instantly.
       - title: The Auto-Pilot (Workflow Automation)
-        image: images/service-1.svg
+        image: images/service6.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
