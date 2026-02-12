@@ -21,7 +21,7 @@ sections:
             url: /solutions/mosbi
             style: link
         content: >-
-          Your private cloud for files, photos, and collaboration. Replace Google Drive/Dropbox.
+          Your private cloud for files, photos, and collaboration. Replace Google.
             - Benefit: Unlimited users. Flat pricing. Total privacy.
       - title: The Command Center (Managed ERP)
         image: images/service-2.svg
@@ -31,7 +31,7 @@ sections:
             style: link
         content: >-
           One dashboard for CRM, Invoicing, and Inventory. Replace the spreadsheet chaos.
-            - Benefit: See your cash flow in real-time.
+            - Benefit: See your cash flow in real-time. Maintain a client list.
       - title: The Digital Storefront (Managed Web)
         image: images/service-3.svg
         actions:
