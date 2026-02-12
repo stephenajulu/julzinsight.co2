@@ -78,7 +78,7 @@ sections:
     view_all_url: portfolio
   - type: cta_section
     section_id: cta
-    title: Ready to evict your landlords?
+    title: Ready to evict the landlords?
     content: >-
       Let’s build your infrastructure.
     actions:
