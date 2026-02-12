@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Scalable, Sovereign Digital Infrastructure for Visionary Enterprises
+      Stop Renting Your Business. Start Owning It.
     content: >-
-      **[Book a consultation →](/contact/)**
+      We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
