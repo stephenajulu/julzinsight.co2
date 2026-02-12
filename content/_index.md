@@ -9,7 +9,7 @@ sections:
     content: >-
       We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.
     actions:
-      - label: Get Your Free 15-Minute Strategy Audit
+      - label: Audit Your Stack
         url: /contact/
         style: button
   - type: portfolio_section
