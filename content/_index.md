@@ -76,14 +76,6 @@ sections:
         content: >-
           Connect your apps and automate boring tasks. Replace manual data entry.
             - Benefit: Save 10+ hours a week.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title:
-    subtitle:
-    projects_number: 4
-    view_all_label: View All
-    view_all_url: portfolio
   - type: cta_section
     section_id: cta
     title: Ready to evict the landlords?
