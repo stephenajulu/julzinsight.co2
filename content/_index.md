@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable Digital Infrastructure for Visionary Businesses.
+      Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
     content: >-
       We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
   - type: portfolio_section
