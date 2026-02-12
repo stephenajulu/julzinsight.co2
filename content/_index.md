@@ -7,7 +7,11 @@ sections:
     title: >-
       Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
     content: >-
-      We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.<br><br>[Audit Your Stack](/contact/)
+      We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.
+    - actions:
+        - label: Get Your Free 15-Minute Strategy Audit
+          url: /contact/
+          style: button
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
