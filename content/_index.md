@@ -14,7 +14,7 @@ sections:
         style: button
       - label: Learn More
         url: /about/
-        style: button--primary
+        style: button
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
