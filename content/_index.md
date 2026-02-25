@@ -12,6 +12,9 @@ sections:
       - label: Audit Your Stack
         url: /contact/
         style: button
+      - label: Learn More
+        url: /about/
+        style: button--primary
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
