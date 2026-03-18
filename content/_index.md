@@ -5,14 +5,14 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
+      Stop Renting Your Business Infrastructure. Own Your Digital Sovereignty.
     content: >-
-      We build Sovereign Digital Infrastructure for African businesses. Cut your software subscription costs, secure your data, and transform your technology into an asset you truly own.
+      We transform African enterprises from captives of fragmented, predatory SaaS ecosystems into absolute owners of their operational infrastructure. Deploy enterprise-grade, managed open-source engines with zero operational downtime and infinite scalability.
     actions:
-      - label: Audit Your Stack
+      - label: Initiate System Audit
         url: /contact/
         style: button
-      - label: Learn More
+      - label: View the Transition Architecture
         url: /about/
         style: button--primary
   - type: portfolio_section
@@ -30,7 +30,6 @@ sections:
     col_number: three
     grid_items:
       - title: The Digital HQ (Managed Nextcloud)
-        image: images/service1.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -39,7 +38,6 @@ sections:
           Your private cloud for files, photos, and collaboration. Replace Google.
             - Benefit: Unlimited users. Flat pricing. Total privacy.
       - title: The Command Center (Managed ERP)
-        image: images/service2.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -48,7 +46,6 @@ sections:
           One dashboard for CRM, Invoicing, and Inventory. Replace the spreadsheet chaos.
             - Benefit: See your cash flow in real-time. Maintain a client list.
       - title: The Digital Storefront (Managed Web)
-        image: images/service3.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -57,7 +54,6 @@ sections:
           Lightning-fast websites and blogs that you truly own. Replace Wix/Squarespace.
             - Benefit: Load in <2 seconds. No platform risk.
       - title: The War Room (Secure Chat)
-        image: images/service4.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -66,7 +62,6 @@ sections:
           Encrypted team chat and video for focused work. Replace WhatsApp for Business.
             - Benefit: Keep company secrets safe. Separate work from life.
       - title: The Iron Gate (Password Vault)
-        image: images/service5.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -75,7 +70,6 @@ sections:
           Enterprise-grade password security. Replace sticky notes and "Password123".
             - Benefit: Control employee access instantly.
       - title: The Auto-Pilot (Workflow Automation)
-        image: images/service6.png
         actions:
           - label: Learn more →
             url: /solutions/mosbi
@@ -85,11 +79,11 @@ sections:
             - Benefit: Save 10+ hours a week.
   - type: cta_section
     section_id: cta
-    title: Ready to evict the landlords?
+    title: The era of rented infrastructure is over.
     content: >-
-      Let’s build your infrastructure.
+      Read to evict the landlords?
     actions:
-      - label: Get Your Free Strategy Audit
+      - label: Get Your Strategy Audit
         url: /contact
         style: button
     image: images/cta.svg
