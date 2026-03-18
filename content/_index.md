@@ -79,9 +79,9 @@ sections:
             - Benefit: Save 10+ hours a week.
   - type: cta_section
     section_id: cta
-    title: The era of rented infrastructure is over.
+    title: Read to evict the landlords?
     content: >-
-      Read to evict the landlords?
+      The era of rented infrastructure is over.
     actions:
       - label: Get Your Strategy Audit
         url: /contact
