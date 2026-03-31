@@ -4,16 +4,25 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+      The Mission: Precision. Autonomy. Impact.
+
+      Julz Insight is not a generic MSP. We are a Sovereign Tech Forge. Our mandate is to equip African leadership with the tools required to compete globally while maintaining absolute control over their internal data and processes.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
+      The Leadership Philosophy
+    
+      Founded by Stephen Ajulu, Julz Insight operates on the principle of The Disciplined Guide. We navigate the "Black Box" of proprietary software to lead our clients toward transparent, auditable, and self-sustaining systems.
+
+
+      Our Methodology
+    
+      1. Audit: Deep-dive analysis of current vendor lock-in and security gaps.
+
+      2. Architect: Designing a modular stack using the MOSBI™ framework.
+
+      3. Automate: Implementing CI/CD pipelines and unified monitoring to minimize human error.
+
+      4. Advise: Continuous strategic alignment to ensure tech serves the 100-year legacy.
   - type: grid_section
     section_id: team
     title: The Team
