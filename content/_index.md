@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Stop Renting Your Business Infrastructure. Own Your Digital Sovereignty.
+      Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
     content: >-
       We transform African enterprises from captives of fragmented, predatory SaaS ecosystems into absolute owners of their operational infrastructure. Deploy enterprise-grade, managed open-source engines with zero operational downtime and infinite scalability.
     actions:
