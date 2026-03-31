@@ -5,16 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable Digital Infrastructure for Visionary Enterprises.
+      Sovereign, Scalable Digital Infrastructure for Visionary African Enterprises.
     content: >-
-      We transform African enterprises from captives of fragmented, predatory SaaS ecosystems into absolute owners of their operational infrastructure. Deploy enterprise-grade, managed open-source engines with zero operational downtime and infinite scalability.
+      African enterprises are bleeding capital into bloated, rented software ecosystems. To achieve true operational excellence and resilience, you need full control over your data, your systems, and your future. Julz Insight is not just an IT consultancy; we are the architects of your digital sovereignty. We engineer, deploy, and manage impenetrable open-source business infrastructure, transforming technology from a recurring liability into a sovereign asset.
     actions:
       - label: Initiate System Audit
         url: /contact/
         style: button
-      - label: View the Transition Architecture
-        url: /about/
-        style: button--primary
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
