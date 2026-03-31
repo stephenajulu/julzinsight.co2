@@ -7,7 +7,7 @@ sections:
     title: >-
       Sovereign, Scalable Digital Infrastructure for Visionary African Enterprises.
     content: >-
-      African enterprises are bleeding capital into bloated, rented software ecosystems. To achieve true operational excellence and resilience, you need full control over your data, your systems, and your future. Julz Insight is not just an IT consultancy; we are the architects of your digital sovereignty. We engineer, deploy, and manage impenetrable open-source business infrastructure, transforming technology from a recurring liability into a sovereign asset.
+      Stop renting your technology. African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage impenetrable open-source infrastructure—giving you absolute control over your data and transforming technology from a liability into a sovereign asset.
     actions:
       - label: Initiate System Audit
         url: /contact/
