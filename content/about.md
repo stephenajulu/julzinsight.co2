@@ -23,105 +23,33 @@ sections:
       3. Automate: Implementing CI/CD pipelines and unified monitoring to minimize human error.
 
       4. Advise: Continuous strategic alignment to ensure tech serves the 100-year legacy.
-  - type: grid_section
-    section_id: team
-    title: The Team
-    subtitle: An optional subtitle of the section
-    col_number: three
-    grid_items:
-      - title: Gustav Purpleson
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+   
+    actions:
+      - label: Consult a Sovereignty Advisor
+        url: /contact
+        style: button
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Secure Your Infrastructure
     content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+      Technology is either a tool for your liberation or a silent tax on your growth. In the African enterprise landscape, staying neutral is no longer an option. You are either architecting your own digital sovereignty or you are subsidizing a vendor's roadmap.
+
+      Julz Insight is the partner for leaders who choose the former. We don't just provide support; we provide a Sovereign Standard that ensures your data, your processes, and your future remain under your absolute command.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Julz Insight | The Architects of Sovereign Tech
+  description: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Julz Insight | The Architects of Sovereign Tech
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -130,9 +58,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Julz Insight | The Architects of Sovereign Tech
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
