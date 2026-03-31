@@ -23,7 +23,6 @@ sections:
       3. Automate: Implementing CI/CD pipelines and unified monitoring to minimize human error.
 
       4. Advise: Continuous strategic alignment to ensure tech serves the 100-year legacy.
-   
     actions:
       - label: Consult a Sovereignty Advisor
         url: /contact
