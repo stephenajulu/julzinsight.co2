@@ -87,29 +87,26 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Julz Insight
+  title: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
     - name: 'twitter:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
 layout: advanced
 ---
