@@ -9,7 +9,7 @@ sections:
     content: >-
       Stop renting your technology. African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage impenetrable open-source infrastructure—giving you absolute control over your data and transforming technology from a liability into a sovereign asset.
     actions:
-      - label: Initiate System Audit
+      - label: Initiate Infrastructure Audit
         url: /contact/
         style: button
   - type: portfolio_section
