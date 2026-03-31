@@ -23,10 +23,6 @@ sections:
       3. Automate: Implementing CI/CD pipelines and unified monitoring to minimize human error.
 
       4. Advise: Continuous strategic alignment to ensure tech serves the 100-year legacy.
-    actions:
-      - label: Consult a Sovereignty Advisor
-        url: /contact
-        style: button
   - type: cta_section
     section_id: cta
     title: Secure Your Infrastructure
@@ -34,6 +30,10 @@ sections:
       Technology is either a tool for your liberation or a silent tax on your growth. In the African enterprise landscape, staying neutral is no longer an option. You are either architecting your own digital sovereignty or you are subsidizing a vendor's roadmap.
 
       Julz Insight is the partner for leaders who choose the former. We don't just provide support; we provide a Sovereign Standard that ensures your data, your processes, and your future remain under your absolute command.
+    actions:
+      - label: Consult a Sovereignty Advisor
+        url: /contact
+        style: button
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
