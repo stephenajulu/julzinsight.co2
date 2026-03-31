@@ -1,6 +1,7 @@
 .hero {
   margin-bottom: 3.33333em;
   padding-bottom: 1.66667em;
+  text-align: center;
 
   &__title {
     font-size: 2.22222em;
@@ -19,7 +20,9 @@
   }
 
   &__actions {
+    margin-top: 3.5em;
     font-size: 1.11111em;
+    justify-content: center;
 
     .button {
       font-size: inherit;
