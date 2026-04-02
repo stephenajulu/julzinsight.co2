@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Managed, Scalable Digital Infrastructure for Visionary African Enterprises with a Focus on Digital Sovereignty.
+      Sovereign, Scalable Digital Infrastructure for Visionary African Enterprises.
     content: >-
       Stop renting your technology. African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage impenetrable open-source infrastructure, giving you absolute control over your data and transforming technology from a liability into a sovereign asset.
     actions:
