@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Scalable Digital Infrastructure for Visionary African Enterprises.
+      The Sovereign, Uncompromising Digital  Infrastructure for Forward-Thinking African Enterprises.
     content: >-
-      Stop renting your technology. African enterprises are bleeding capital into bloated software ecosystems. We engineer and manage impenetrable open-source infrastructure, giving you absolute control over your data and transforming technology from a liability into a sovereign asset.
+      Stop renting your technology! Julz Insight delivers scalable, enterprise-grade digital foundations to forward-thinking African organizations, businesses and enterprises interested in keeping their data and systems in their own control. Take back control. Say no to expensive, scattered SaaS subscriptions. Choose Julz Insight. We don't just sell software. We sell *Digital Independence* and *Peace of Mind*. Your own stack that lives where you want with us in the background managing it.
     actions:
       - label: Initiate Infrastructure Audit
         url: /contact/
