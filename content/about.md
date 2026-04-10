@@ -43,14 +43,14 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Julz Insight | The Architects of Sovereign Tech
+  title: About us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
   description: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Julz Insight | The Architects of Sovereign Tech
+      value: About us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
       keyName: property
     - name: 'og:description'
       value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
@@ -62,7 +62,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Julz Insight | The Architects of Sovereign Tech
+      value: About us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
     - name: 'twitter:description'
       value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
     - name: 'twitter:image'
