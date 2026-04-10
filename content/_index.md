@@ -23,6 +23,14 @@ sections:
         content: 64%
       - title: Client Satisfaction
         content: 96%
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: mosaic
+    title: Insights
+    subtitle:
+    projects_number: 2
+    view_all_label: View All
+    view_all_url: portfolio
   - type: grid_section
     section_id: solutions
     title: Solutions
@@ -51,14 +59,6 @@ sections:
 
           
           **The Advantage:** Total data sovereignty, predictable IT expenditure, and a highly resilient, custom-calibrated operational engine.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    title: Insights
-    subtitle:
-    projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
   - type: cta_section
     section_id: cta
     title: Read to evict the landlords?
