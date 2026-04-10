@@ -13,6 +13,17 @@ sections:
         url: /contact/
         style: button
   - type: grid_section
+    section_id: metrics
+    title: Key Performance Metrics
+    col_number: three
+    grid_items:
+      - title: Years of Experience
+        content: 12+
+      - title: Average Cost Optimization
+        content: 64%
+      - title: Client Satisfaction
+        content: 96%
+  - type: grid_section
     section_id: solutions
     title: Solutions
     subtitle: Julz Insight delivers scalable, enterprise-grade digital foundations.
