@@ -11,17 +11,21 @@ sections:
       ***
 
 
-      General Inquiries: info@julzinsight.co
-      Secondary Email (CC): julzinsight@gmail.com
-      For Support: support@julzinsight.co
-      Phone: +254 (0) 740 128 010
-      Address: Syokimau, Nairobi, Kenya
+      General Inquires: [info@julzinsight.co](mailto:info@julzinsight.co)<br>
+      Secondary Email (CC): [julzinsight@gmail.com](mailto:julzinsight@gmail.com)<br>
+      For Support: [support@julzinsight.co](mailto:support@julzinsight.co)<br>
+      Phone: [+254 (0) 740 128 010](tel:+254740128010)<br>
+      Address: [Syokimau, Nairobi, Kenya](https://maps.app.goo.gl/CTyhTTBynxyHsRoK7)<br><br>
 
 
-      Social Media: Follow us on:
-      - Twitter: @julzinsight
-      - LinkedIn: Julz Insight
-      - Instagram: @julzinsight
+      ***
+
+
+      **Social Media**: Follow us on:<br>
+      - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
+      - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
+      - Instagram: [Julz Insight](https://www.instagram.com/julzinsight)
+    
     form_id: contactForm
     form_action: /thank-you
     form_fields:
