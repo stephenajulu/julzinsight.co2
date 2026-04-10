@@ -60,17 +60,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: dark
-  - type: grid_section
-    section_id: metrics
-    title: Key Performance Metrics
-    col_number: three
-    grid_items:
-      - title: Years of Experience
-        content: 12+
-      - title: Average Cost Optimization
-        content: 64%
-      - title: Client Satisfaction
-        content: 96%
 seo:
   title: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
   description: >-
