@@ -5,38 +5,23 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
-
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      At Julz Insight, we are dedicated to delivering scalable, enterprise-grade digital foundations to forward-thinking organizations, businesses, and enterprises interested in keeping their data and systems within their control. Whether you have a question, need support, or want to discuss a potential infrastructure audit, we are here to help. Get in touch with us through any of the following methods:
 
 
       ***
 
 
-      ## Our Offices
+      General Inquiries: info@julzinsight.co
+      Secondary Email (CC): julzinsight@gmail.com
+      For Support: support@julzinsight.co
+      Phone: +254 (0) 740 128 010
+      Address: Syokimau, Nairobi, Kenya
 
 
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      Social Media: Follow us on:
+      - Twitter: @julzinsight
+      - LinkedIn: Julz Insight
+      - Instagram: @julzinsight
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -55,9 +40,9 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Managed Open Source Business Infrastructure
+          - Strategic IT Advisory
+          - Schedule an Infrastructure Audit
       - input_type: textarea
         name: message
         label: Message
@@ -65,7 +50,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
+          I understand that Julz Insight is storing my submitted information, so I
           can be contacted.
     submit_label: Send Message
 seo:
