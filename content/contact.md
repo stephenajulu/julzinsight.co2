@@ -20,7 +20,6 @@ sections:
 
       ***
 
-
       **Social Media**: Follow us on:<br>
       - Twitter: [@julzinsight](https://x.com/julzinsight)<br>
       - LinkedIn: [Julz Insight](https://www.linkedin.com/julzinsight)<br>
