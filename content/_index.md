@@ -22,58 +22,50 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: solutions
-    title: Welcome to the Sovereign Stack.
+    title: Solutions
     subtitle: Julz Insight replaces your expensive, scattered SaaS subscriptions with a powerful, open-source infrastructure that lives on your private cloud. We don't just sell software. We sell Digital Independence.
     col_number: three
     grid_items:
-      - title: The Digital HQ (Managed Nextcloud)
+      - title: Strategic IT Advisory
+        image: images/icon-2.svg
         actions:
           - label: Learn more →
-            url: /solutions/mosbi
+            url: /solutions/strategic-it-advisory
             style: link
         content: >-
-          Your private cloud for files, photos, and collaboration. Replace Google.
-            - Benefit: Unlimited users. Flat pricing. Total privacy.
-      - title: The Command Center (Managed ERP)
+          We align technology architecture with business objectives to drive operational excellence and establish digital sovereignty. This service delivers executive-level intelligence to navigate complex technology investments, eliminate operational bottlenecks, and scale infrastructure securely.
+
+          **Strategic Deliverables:**
+          
+          Digital Transformation Roadmapping: Architecting scalable technology ecosystems mapped directly to revenue goals.
+          
+          CIO & Leadership Advisory: Executive counsel on technology procurement, vendor negotiation, and risk mitigation.
+          
+          Systems Architecture Audits: Systematic evaluation of legacy infrastructure to identify vulnerabilities and optimize workflows.
+          
+          Sovereignty Strategy: Frameworks to protect critical intellectual property and ensure regulatory compliance.
+          
+          **The Sovereign Advantage:** Accelerated organizational growth, elimination of technical debt, and fortified market positioning for executive leadership.
+      - title: Managed Open Source Business Infrastructure
+        image: images/service-5.svg
         actions:
           - label: Learn more →
-            url: /solutions/mosbi
+            url: /solutions/managed-open-source-business-infrastructure
             style: link
         content: >-
-          One dashboard for CRM, Invoicing, and Inventory. Replace the spreadsheet chaos.
-            - Benefit: See your cash flow in real-time. Maintain a client list.
-      - title: The Digital Storefront (Managed Web)
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Lightning-fast websites and blogs that you truly own. Replace Wix/Squarespace.
-            - Benefit: Load in <2 seconds. No platform risk.
-      - title: The War Room (Secure Chat)
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Encrypted team chat and video for focused work. Replace WhatsApp for Business.
-            - Benefit: Keep company secrets safe. Separate work from life.
-      - title: The Iron Gate (Password Vault)
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Enterprise-grade password security. Replace sticky notes and "Password123".
-            - Benefit: Control employee access instantly.
-      - title: The Auto-Pilot (Workflow Automation)
-        actions:
-          - label: Learn more →
-            url: /solutions/mosbi
-            style: link
-        content: >-
-          Connect your apps and automate boring tasks. Replace manual data entry.
-            - Benefit: Save 10+ hours a week.
+          We deploy, host, and manage secure, sovereign technology stacks with our proprietary JulzOS Unified Dashboard that eliminates proprietary vendor lock-in and guarantees absolute data ownership. This is a complete, execution-focused infrastructure solution designed to power core business operations without sacrificing privacy or control.
+
+          **Operational Capabilities:**
+          
+          Enterprise ERP Management: End-to-end deployment, customization, and maintenance of unified platforms like ERPNext.
+          
+          Sovereign Cloud Operations: Secure, high-performance hosting for collaboration tools such as Nextcloud.
+          
+          Proactive Infrastructure Maintenance: Continuous server monitoring, automated security patching, and isolated backup protocols.
+          
+          Disaster Recovery Systems: Resilient architecture designed to ensure business continuity under adverse conditions.
+          
+          **The Sovereign Advantage:** Total data sovereignty, predictable IT expenditure, and a highly resilient, custom-calibrated operational engine.
   - type: cta_section
     section_id: cta
     title: Read to evict the landlords?
