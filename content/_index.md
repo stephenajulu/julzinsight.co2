@@ -14,7 +14,7 @@ sections:
         style: button
   - type: grid_section
     section_id: metrics
-    title: Key Performance Metrics
+    title: 
     col_number: three
     grid_items:
       - title: Years of Experience
