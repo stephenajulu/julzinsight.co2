@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      The Sovereign, Uncompromised Digital  Infrastructure for Forward-Thinking Enterprises.
+      The Sovereign, Uncompromising Digital  Infrastructure for Forward-Thinking Enterprises.
     content: >-
       Stop renting your technology! Julz Insight delivers scalable, enterprise-grade digital foundations to forward-thinking organizations, businesses and enterprises interested in keeping their data and systems in their own control. Take back control. Say no to expensive, scattered SaaS subscriptions. Choose Julz Insight. We don't just sell software. We sell *Digital Independence* and *Peace of Mind*. Your own stack that lives where you want it and us in the background managing it. Full data ownership and control.
     actions:
