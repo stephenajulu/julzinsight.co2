@@ -89,7 +89,7 @@ sections:
 seo:
   title: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
   description: >-
-    Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+    Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
     - name: 'og:type'
       value: website
@@ -99,7 +99,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
       keyName: property
     - name: 'twitter:card'
       value: summary
@@ -107,6 +107,6 @@ seo:
       value: Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprise
     - name: 'twitter:description'
       value: >-
-        Eliminate vendor lock-in with Julz Insight. We deploy MOSBI™ and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
 layout: advanced
 ---
