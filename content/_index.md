@@ -24,7 +24,7 @@ sections:
     section_id: solutions
     title: Solutions
     subtitle: Julz Insight replaces your expensive, scattered SaaS subscriptions with a powerful, open-source infrastructure that lives on your private cloud. We don't just sell software. We sell Digital Independence.
-    col_number: three
+    col_number: two
     grid_items:
       - title: Strategic IT Advisory
         image: images/icon-2.svg
