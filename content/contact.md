@@ -41,12 +41,15 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
+        label: What are you looking for?
         default_value: Please select
         options:
           - Managed Open Source Business Infrastructure
           - Strategic IT Advisory
           - Schedule an Infrastructure Audit
+          - Partnerships and Collaboration
+          - Open Vacancies
+          - Other
       - input_type: textarea
         name: message
         label: Message
@@ -56,25 +59,29 @@ sections:
         label: >-
           I understand that Julz Insight is storing my submitted information, so I
           can be contacted.
+      - input_type: checkbox
+        name: newsletter
+        label: >-
+          I agree to join Julz Insight's newsletter for insights, offers, and more.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
+  description: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact us - Julz Insight | Digital Sovereignty & Managed Open Source for African Enterprises
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
 layout: advanced
 ---
