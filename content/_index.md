@@ -15,7 +15,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
-    title: Insights
+    title: 
     subtitle:
     projects_number: 2
     view_all_label: View All
