@@ -4,6 +4,10 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
+
+      We help African businesses break free from expensive, restrictive software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
+    
+
       **The Mission: Precision. Autonomy. Impact.**
 
       Julz Insight is not a generic MSP. We are a Sovereign Tech Forge. Our mandate is to equip African leadership with the tools required to compete globally while maintaining absolute control over their internal data and processes.
