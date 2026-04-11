@@ -7,7 +7,7 @@ sections:
     title: >-
       The Sovereign, Uncompromising Digital  Infrastructure for Forward-Thinking Enterprises.
     content: >-
-      Stop renting your technology! Julz Insight delivers scalable, enterprise-grade digital foundations to forward-thinking organizations, businesses and enterprises interested in keeping their data and systems in their own control. Take back control. Say no to expensive, scattered SaaS subscriptions. Choose Julz Insight. We don't just sell software. We sell *Digital Independence* and *Peace of Mind*. Your own stack that lives where you want it and us in the background managing it. Full data ownership and control.
+      We help African businesses break free from expensive, restrictive software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag
     actions:
       - label: Initiate Infrastructure Audit
         url: /contact/
