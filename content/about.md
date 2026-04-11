@@ -11,7 +11,7 @@ sections:
 
       **The Leadership Philosophy**
     
-      Founded by Stephen Ajulu, Julz Insight operates on the principle of The Disciplined Guide. We navigate the "Black Box" of proprietary software to lead our clients toward transparent, auditable, and self-sustaining systems.
+      Founded by Stephen Ajulu, Julz Insight operates on the principle of The Sovereignty Guide. We navigate the "Black Box" of proprietary software to lead our clients toward transparent, auditable, and self-sustaining systems.
 
 
       **Our Methodology**
