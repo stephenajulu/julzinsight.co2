@@ -7,7 +7,7 @@ sections:
     title: >-
       The Sovereign, Uncompromising Digital  Infrastructure for Forward-Thinking Enterprises.
     content: >-
-      We help African businesses break free from expensive, restrictive software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag
+      We help African businesses break free from expensive, restrictive software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
       - label: Initiate Infrastructure Audit
         url: /contact/
