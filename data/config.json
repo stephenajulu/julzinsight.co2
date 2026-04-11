@@ -25,6 +25,11 @@
                 "style": "link"
             },
             {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {
                 "label": "Initiate Infrastructure Audit",
                 "url": "/contact/",
                 "style": "button"
