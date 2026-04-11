@@ -64,14 +64,14 @@ sections:
           I agree to join Julz Insight's newsletter for insights, offers, and more.
     submit_label: Send Message
 seo:
-  title: Contact us - Julz Insight | Africa's #1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+  title: Contact us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
   description: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact us - Julz Insight | Africa's #1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Contact us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
       keyName: property
     - name: 'og:description'
       value: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact us - Julz Insight | Africa's #1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Contact us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
     - name: 'twitter:description'
       value: Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
 layout: advanced
