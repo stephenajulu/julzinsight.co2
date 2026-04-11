@@ -61,7 +61,7 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Julz Insight | Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+  title: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
   description: >-
     Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
       keyName: property
     - name: 'og:description'
       value: >-
@@ -78,7 +78,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight | Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
     - name: 'twitter:description'
       value: >-
         Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
