@@ -26,17 +26,6 @@ sections:
     subtitle: Julz Insight delivers scalable, enterprise-grade digital foundations.
     col_number: two
     grid_items:
-      - title: Strategic IT Advisory
-        image: images/icon-2.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/strategic-it-advisory
-            style: link
-        content: >-
-          We align technology architecture with business objectives to drive operational excellence and establish digital sovereignty. This service delivers executive-level intelligence to navigate complex technology investments, eliminate operational bottlenecks, and scale infrastructure securely.
-
-
-          **The Advantage:** Accelerated organizational growth, elimination of technical debt, and fortified market positioning for executive leadership.
       - title: Managed Open Source Business Infrastructure
         image: images/service-5.svg
         actions:
@@ -48,6 +37,17 @@ sections:
 
           
           **The Advantage:** Total data sovereignty, predictable IT expenditure, and a highly resilient, custom-calibrated operational engine.
+      - title: Strategic IT Advisory
+        image: images/icon-2.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/strategic-it-advisory
+            style: link
+        content: >-
+          We align technology architecture with business objectives to drive operational excellence and establish digital sovereignty. This service delivers executive-level intelligence to navigate complex technology investments, eliminate operational bottlenecks, and scale infrastructure securely.
+
+
+          **The Advantage:** Accelerated organizational growth, elimination of technical debt, and fortified market positioning for executive leadership.
   - type: cta_section
     section_id: cta
     title: Read to evict the landlords?
