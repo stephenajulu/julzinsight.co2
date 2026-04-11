@@ -15,8 +15,8 @@
                 "style": "link"
             },
             {
-                "label": "Case Studies",
-                "url": "/portfolio/",
+                "label": "About",
+                "url": "/about/",
                 "style": "link"
             },
             {
@@ -25,12 +25,7 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
+                "label": "Audit Your Stack",
                 "url": "/contact/",
                 "style": "button"
             }
