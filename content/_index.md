@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      The Fully Managed Sovereign & Performant Digital  Infrastructure for Forward-Thinking African Enterprises.
+      The Fully Managed Sovereign & Performant Infrastructure for Forward-Thinking African Enterprises.
     content: >-
       We help African businesses break free from expensive, restrictive software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
