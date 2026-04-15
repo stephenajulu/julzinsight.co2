@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign, Performant Business Infrastructure for Forward-Thinking Enterprises.
+      Sovereign, Performant Business Infrastructure for Progressive Enterprises.
     content: >-
       Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
