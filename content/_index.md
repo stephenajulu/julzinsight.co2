@@ -7,7 +7,7 @@ sections:
     title: >-
       Sovereign & Performant Open-Source Infrastructure for Forward-Thinking Enterprises.
     content: >-
-      Julz Insight deploys, hosts, and manages secure, sovereign technology stacks with our proprietary JulzOS Unified Dashboard, helping African businesses break free from expensive, restrictive, and vendor-locked-in software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
+      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
       - label: Initiate Your Infrastructure Audit
         url: /contact/
