@@ -12,10 +12,6 @@ sections:
       - label: Initiate Infrastructure Audit →
         url: /contact/
         style: button
-  - type: image_section
-    width: wide
-    image: images/14shots_so.png
-    image_alt: JulzOS Unified Dashboard
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
