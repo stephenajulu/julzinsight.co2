@@ -9,7 +9,7 @@ sections:
     content: >-
       Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
-      - label: Initiate Your Infrastructure Audit
+      - label: Initiate Infrastructure Audit →
         url: /contact/
         style: button
   - type: portfolio_section
