@@ -7,7 +7,7 @@ sections:
     title: >-
       The Fully-Managed, Sovereign & Performant Open-Source Infrastructure for Progressive Enterprises.
     content: >-
-      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering a fully managed open-source business infrastructure as powerful as Microsoft 365, SharePoint or Salesforce, without the heavy price tag.
+      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering a fully managed open-source business infrastructure as powerful as Microsoft 365, SharePoint, and Salesforce, without the heavy price tag.
     actions:
       - label: Initiate Infrastructure Audit →
         url: /contact/
