@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Sovereign & Performant Business Infrastructure for Progressive Enterprises.
+      Fully-Managed, Sovereign & Performant Open-Source Infrastructure for Progressive Enterprises.
     content: >-
       Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering fully managed open-source business infrastructure as powerful as Microsoft 365, without the heavy price tag.
     actions:
@@ -61,7 +61,7 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+  title: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
   description: >-
     Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
   extra:
@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
       keyName: property
     - name: 'og:description'
       value: >-
@@ -78,7 +78,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
     - name: 'twitter:description'
       value: >-
         Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
