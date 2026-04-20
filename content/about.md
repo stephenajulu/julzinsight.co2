@@ -47,14 +47,14 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+  title: About us - Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
   description: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: About us - Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
       keyName: property
     - name: 'og:description'
       value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
@@ -66,7 +66,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About us - Julz Insight | Africa's No 1 Managed Open-Source Business Infrastructure Company — Powering Digital Independence for Small & Medium Businesses.
+      value: About us - Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
     - name: 'twitter:description'
       value: Led by Stephen Ajulu, Julz Insight bridges the gap between technical complexity and strategic business growth through disciplined open-source leadership.
     - name: 'twitter:image'
