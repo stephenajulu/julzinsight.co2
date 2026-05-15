@@ -15,143 +15,95 @@ sections:
       - label: Book a demo
         url: /contact/
         style: link
+
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
-    title: 
+    title:
     subtitle:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-- type: grid_section
-  section_id: solutions
-  title: JulzOS Pillars
-  subtitle: The sovereign Digital HQ — nine pillars unified under JulzOS.
-  col_number: two
-  grid_items:
-    - title: The Bridge
-      image: images/thebridge.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-bridge
-          style: link
-      content: >-
-        Your single pane of glass. The proprietary orchestration interface where centralized authentication meets real-time business insights, unifying all pillars into a single user experience.
 
-        **The Advantage:** Seamless orchestration, unified control, and sovereign visibility.
-    - title: The Digital HQ
-      image: images/thedigitalhq.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-digital-hq
-          style: link
-      content: >-
-        Centralize your intellectual property. A high-performance, private workspace for secure file governance, calendar scheduling, team coordination, and internal knowledge bases.
+  - type: grid_section
+    section_id: solutions
+    title: JulzOS Pillars
+    subtitle: The sovereign Digital HQ — nine pillars unified under JulzOS.
+    col_number: two
+    grid_items:
+      - title: The Bridge
+        image: images/thebridge.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-bridge
+            style: link
+        content: >-
+          Your single pane of glass. The proprietary orchestration interface where centralized authentication meets real-time business insights, unifying all pillars into a single user experience.
 
-        **The Advantage:** Secure collaboration, private knowledge management, and enterprise-grade productivity.
-    - title: The Command Center
-      image: images/thecommandcenter.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-command-center
-          style: link
-      content: >-
-        Total operational visibility. Master your financial books, automated supply chains, manufacturing, and HR operations through a single, sovereign enterprise resource platform.
+          **The Advantage:** Seamless orchestration, unified control, and sovereign visibility.
 
-        **The Advantage:** Unified operations, automated workflows, and sovereign ERP control.
-    - title: The War Room
-      image: images/thewarroom.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-war-room
-          style: link
-      content: >-
-        Real-time tactical execution. High-security, persistent team messaging and compliance-ready chat channels built for organizations that need to move fast without leaking data.
+      - title: The Digital HQ
+        image: images/thedigitalhq.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-digital-hq
+            style: link
+        content: >-
+          Centralize your intellectual property. A high-performance, private workspace for secure file governance, calendar scheduling, team coordination, and internal knowledge bases.
 
-        **The Advantage:** Secure communication, compliance-ready messaging, and tactical agility.
-    - title: The Iron Vault
-      image: images/theironvault.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-iron-vault
-          style: link
-      content: >-
-        Team-focused credential security. An enterprise-grade, open-source password manager designed for businesses to store, share, and audit sensitive server keys and corporate credentials securely.
+          **The Advantage:** Secure collaboration, private knowledge management, and enterprise-grade productivity.
 
-        **The Advantage:** Enterprise credential governance, auditability, and zero-trust storage.
-    - title: The Gatekeeper
-      image: images/thegatekeeper.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-gatekeeper
-          style: link
-      content: >-
-        Unified enterprise identity. A centralized security layer handling Single Sign-On (SSO) and Multi-Factor Authentication (MFA), governing exactly who has access to which pillar.
+      - title: The Command Center
+        image: images/thecommandcenter.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-command-center
+            style: link
+        content: >-
+          Total operational visibility. Master your financial books, automated supply chains, manufacturing, and HR operations through a single, sovereign enterprise resource platform.
 
-        **The Advantage:** Centralized identity, secure access, and compliance-grade authentication.
-    - title: The Auto Pilot
-      image: images/theautopilot.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-auto-pilot
-          style: link
-      content: >-
-        Intelligent backend workflows. The low-code automation engine that connects your Digital HQ to your Command Center, eliminating manual data entry across your entire business stack.
+          **The Advantage:** Unified operations, automated workflows, and sovereign ERP control.
 
-        **The Advantage:** Automated workflows, reduced manual overhead, and intelligent integration.
-    - title: The Guardian
-      image: images/theguardian.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-guardian
-          style: link
-      content: >-
-        Proactive platform resilience. 24/7 continuous health checks, real-time metrics, and automated status pages that catch infrastructure issues before your team or clients ever notice them.
+      - title: The War Room
+        image: images/thewarroom.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-war-room
+            style: link
+        content: >-
+          Real-time tactical execution. High-security, persistent team messaging and compliance-ready chat channels built for organizations that need to move fast without leaking data.
 
-        **The Advantage:** Continuous observability, proactive resilience, and transparent uptime.
-    - title: The Citadel
-      image: images/thecitadel.svg
-      actions:
-        - label: Learn more →
-          url: /solutions/the-citadel
-          style: link
-      content: >-
-        Zero-Trust private networking. A configuration-free, peer-to-peer overlay network powered by WireGuard that securely connects your remote teams and servers without exposing ports to the public internet.
+          **The Advantage:** Secure communication, compliance-ready messaging, and tactical agility.
 
-        **The Advantage:** Secure networking, zero-trust isolation, and seamless remote connectivity.
-  - type: cta_section
-    section_id: cta
-    title: Read to evict the landlords?
-    content: >-
-      The era of rented infrastructure is over.
-    actions:
-      - label: Get Your Strategy Audit
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: dark
-seo:
-  title: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
-  description: >-
-    Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
-    - name: 'twitter:description'
-      value: >-
-        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
-layout: advanced
----
+      - title: The Iron Vault
+        image: images/theironvault.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-iron-vault
+            style: link
+        content: >-
+          Team-focused credential security. An enterprise-grade, open-source password manager designed for businesses to store, share, and audit sensitive server keys and corporate credentials securely.
+
+          **The Advantage:** Enterprise credential governance, auditability, and zero-trust storage.
+
+      - title: The Gatekeeper
+        image: images/thegatekeeper.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-gatekeeper
+            style: link
+        content: >-
+          Unified enterprise identity. A centralized security layer handling Single Sign-On (SSO) and Multi-Factor Authentication (MFA), governing exactly who has access to which pillar.
+
+          **The Advantage:** Centralized identity, secure access, and compliance-grade authentication.
+
+      - title: The Auto Pilot
+        image: images/theautopilot.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-auto-pilot
+            style: link
+        content: >-
+          Intelligent backend workflows. The low-code automation engine that connects your Digital HQ to your Command Center, eliminating manual data entry across your entire business stack.
+
+          **The Advantage:** Automated workflows, reduced manual
