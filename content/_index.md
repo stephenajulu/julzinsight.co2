@@ -29,7 +29,7 @@ sections:
     section_id: solutions
     title: JulzOS Pillars
     subtitle: The sovereign Digital HQ — nine pillars unified under JulzOS.
-    col_number: two
+    col_number: three
     grid_items:
       - title: The Bridge
         image: images/thebridge.svg
