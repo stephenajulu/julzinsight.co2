@@ -12,6 +12,9 @@ sections:
       - label: Initiate Infrastructure Audit →
         url: /contact/
         style: button
+      - label: Book a demo
+        url: /contact/
+        style: link
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
@@ -20,34 +23,102 @@ sections:
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: solutions
-    title: Solutions
-    subtitle: Julz Insight delivers scalable, enterprise-grade digital foundations.
-    col_number: two
-    grid_items:
-      - title: Managed Open Source Business Infrastructure
-        image: images/service-5.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/managed-open-source-business-infrastructure
-            style: link
-        content: >-
-          We deploy, host, and manage secure, sovereign technology stacks with our proprietary JulzOS Unified Dashboard that eliminates proprietary vendor lock-in and guarantees absolute data ownership. This is a complete, execution-focused infrastructure solution designed to power core business operations without sacrificing privacy or control.
+- type: grid_section
+  section_id: solutions
+  title: JulzOS Pillars
+  subtitle: The sovereign Digital HQ — nine pillars unified under JulzOS.
+  col_number: two
+  grid_items:
+    - title: The Bridge
+      image: images/thebridge.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-bridge
+          style: link
+      content: >-
+        Your single pane of glass. The proprietary orchestration interface where centralized authentication meets real-time business insights, unifying all pillars into a single user experience.
 
-          
-          **The Advantage:** Total data sovereignty, predictable IT expenditure, and a highly resilient, custom-calibrated operational engine.
-      - title: Strategic IT Advisory
-        image: images/icon-2.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/strategic-it-advisory
-            style: link
-        content: >-
-          We align technology architecture with business objectives to drive operational excellence and establish digital sovereignty. This service delivers executive-level intelligence to navigate complex technology investments, eliminate operational bottlenecks, and scale infrastructure securely.
+        **The Advantage:** Seamless orchestration, unified control, and sovereign visibility.
+    - title: The Digital HQ
+      image: images/thedigitalhq.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-digital-hq
+          style: link
+      content: >-
+        Centralize your intellectual property. A high-performance, private workspace for secure file governance, calendar scheduling, team coordination, and internal knowledge bases.
 
+        **The Advantage:** Secure collaboration, private knowledge management, and enterprise-grade productivity.
+    - title: The Command Center
+      image: images/thecommandcenter.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-command-center
+          style: link
+      content: >-
+        Total operational visibility. Master your financial books, automated supply chains, manufacturing, and HR operations through a single, sovereign enterprise resource platform.
 
-          **The Advantage:** Accelerated organizational growth, elimination of technical debt, and fortified market positioning for executive leadership.
+        **The Advantage:** Unified operations, automated workflows, and sovereign ERP control.
+    - title: The War Room
+      image: images/thewarroom.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-war-room
+          style: link
+      content: >-
+        Real-time tactical execution. High-security, persistent team messaging and compliance-ready chat channels built for organizations that need to move fast without leaking data.
+
+        **The Advantage:** Secure communication, compliance-ready messaging, and tactical agility.
+    - title: The Iron Vault
+      image: images/theironvault.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-iron-vault
+          style: link
+      content: >-
+        Team-focused credential security. An enterprise-grade, open-source password manager designed for businesses to store, share, and audit sensitive server keys and corporate credentials securely.
+
+        **The Advantage:** Enterprise credential governance, auditability, and zero-trust storage.
+    - title: The Gatekeeper
+      image: images/thegatekeeper.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-gatekeeper
+          style: link
+      content: >-
+        Unified enterprise identity. A centralized security layer handling Single Sign-On (SSO) and Multi-Factor Authentication (MFA), governing exactly who has access to which pillar.
+
+        **The Advantage:** Centralized identity, secure access, and compliance-grade authentication.
+    - title: The Auto Pilot
+      image: images/theautopilot.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-auto-pilot
+          style: link
+      content: >-
+        Intelligent backend workflows. The low-code automation engine that connects your Digital HQ to your Command Center, eliminating manual data entry across your entire business stack.
+
+        **The Advantage:** Automated workflows, reduced manual overhead, and intelligent integration.
+    - title: The Guardian
+      image: images/theguardian.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-guardian
+          style: link
+      content: >-
+        Proactive platform resilience. 24/7 continuous health checks, real-time metrics, and automated status pages that catch infrastructure issues before your team or clients ever notice them.
+
+        **The Advantage:** Continuous observability, proactive resilience, and transparent uptime.
+    - title: The Citadel
+      image: images/thecitadel.svg
+      actions:
+        - label: Learn more →
+          url: /solutions/the-citadel
+          style: link
+      content: >-
+        Zero-Trust private networking. A configuration-free, peer-to-peer overlay network powered by WireGuard that securely connects your remote teams and servers without exposing ports to the public internet.
+
+        **The Advantage:** Secure networking, zero-trust isolation, and seamless remote connectivity.
   - type: cta_section
     section_id: cta
     title: Read to evict the landlords?
