@@ -106,4 +106,65 @@ sections:
         content: >-
           Intelligent backend workflows. The low-code automation engine that connects your Digital HQ to your Command Center, eliminating manual data entry across your entire business stack.
 
-          **The Advantage:** Automated workflows, reduced manual
+          **The Advantage:** Automated workflows, reduced manual overhead, and intelligent integration.
+
+      - title: The Guardian
+        image: images/theguardian.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-guardian
+            style: link
+        content: >-
+          Proactive platform resilience. 24/7 continuous health checks, real-time metrics, and automated status pages that catch infrastructure issues before your team or clients ever notice them.
+
+          **The Advantage:** Continuous observability, proactive resilience, and transparent uptime.
+
+      - title: The Citadel
+        image: images/thecitadel.svg
+        actions:
+          - label: Learn more →
+            url: /solutions/the-citadel
+            style: link
+        content: >-
+          Zero-Trust private networking. A configuration-free, peer-to-peer overlay network powered by WireGuard that securely connects your remote teams and servers without exposing ports to the public internet.
+
+          **The Advantage:** Secure networking, zero-trust isolation, and seamless remote connectivity.
+
+  - type: cta_section
+    section_id: cta
+    title: Read to evict the landlords?
+    content: >-
+      The era of rented infrastructure is over.
+    actions:
+      - label: Get Your Strategy Audit
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: dark
+
+seo:
+  title: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
+  description: >-
+    Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
+    - name: 'twitter:description'
+      value: >-
+        Eliminate vendor lock-in with Julz Insight. We deploy Managed Open Source Business Infrastructure, Digital Sovereignty, and JulzOS™ to provide African SMEs with secure, scalable, and autonomous business infrastructure.
+
+layout: advanced
+---
