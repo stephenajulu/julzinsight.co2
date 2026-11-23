@@ -15,16 +15,6 @@ sections:
       - label: Book a demo
         url: /contact/
         style: link
-
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: mosaic
-    title:
-    subtitle:
-    projects_number: 2
-    view_all_label: View All
-    view_all_url: portfolio
-
   - type: grid_section
     section_id: solutions
     title: Services
@@ -37,7 +27,7 @@ sections:
             url: /solutions/managed-business-infrastructure
             style: link
         content: >-
-          An all-in-one, fully hosted and managed enterprise software environment tailored to your organization. We deploy, secure, monitor, back up, and support your core business applications on dedicated single-tenant infrastructure—either on sovereign cloud nodes or via an on-premises InsightBox hybrid appliance. We maintain system documentation, configuration records, and administrator procedures throughout the service lifecycle.
+          A fully managed, single-tenant business software environment tailored to your organisation. We deploy, secure, monitor, back up, and support your core systems on sovereign cloud infrastructure or an on-premises InsightBox appliance, ensuring reliability, control, and complete operational visibility.
 
 
       - title: Workflow & Process Automation
@@ -47,7 +37,7 @@ sections:
             url: /solutions/workflow-automation
             style: link
         content: >-
-          We help organisations eliminate repetitive manual work, reduce operational bottlenecks, improve process consistency, and prepare for AI-powered operations through secure, self-hosted automation and intelligence platforms. Instead of relying on multiple SaaS subscriptions and manual data transfers, organisations can run automated processes 24/7 across existing systems while retaining ownership, control, and visibility over business data.
+          Reduce manual work, eliminate bottlenecks, and improve operational consistency through secure, self-hosted automation and AI-ready workflows. We connect existing systems, automate repetitive processes, and help organisations operate more efficiently while retaining full ownership of business data.
 
 
 
@@ -58,10 +48,7 @@ sections:
             url: /solutions/workflow-automation
             style: link
         content: >-
-           We provide independent technology leadership, systems assessment, governance oversight, and strategic guidance for organisations seeking enterprise-grade technology decision-making without maintaining an internal CIO or technology leadership team. We help business leaders make informed decisions about technology investments, vendor proposals, operational systems, cybersecurity, automation, and digital transformation initiatives. 
-
-
-
+           Independent technology leadership and strategic guidance for organisations without an internal CIO. We help business leaders evaluate technology investments, strengthen governance, assess vendors, improve cybersecurity, and make confident decisions that support long-term business growth.
   - type: cta_section
     section_id: cta
     title: Read to evict the landlords?
@@ -74,7 +61,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: dark
-
 seo:
   title: Julz Insight | Africa's No 1 Fully Managed, Sovereign & Performant Open-Source Business Infrastructure for Enterprises — Powering Digital Independence for Small & Medium Businesses.
   description: >-
