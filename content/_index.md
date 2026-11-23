@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      The Fully-Managed, Sovereign & Performant Open-Source Infrastructure for Progressive Enterprises.
+      The Intelligent, Sovereign Operating Layer for Modern African Enterprises.
     content: >-
-      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-lock-in software by delivering a fully managed open-source business infrastructure as powerful as Microsoft 365, SharePoint, and Salesforce, without the heavy price tag and complex technicalities
+      Julz Insight helps African businesses break free from expensive, restrictive, and vendor-locked software by delivering a fully managed business infrastructure as powerful as Microsoft 365, SharePoint, and Salesforce, without the heavy price tag and complex technicalities. We design, deploy, and manage the systems, workflows, and operational infrastructure that give organisations control, visibility, resilience, and scale.
     actions:
       - label: Initiate Infrastructure Audit →
         url: /contact/
