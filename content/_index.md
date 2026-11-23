@@ -37,7 +37,7 @@ sections:
             url: /solutions/managed-business-infrastructure
             style: link
         content: >-
-          An all-in-one, fully hosted and managed enterprise software environment tailored to your organization. We deploy, secure, monitor, back up, and support your core business applications on dedicated single-tenant infrastructure—either on sovereign cloud nodes or via an on-premises InsightBox hybrid appliance. System documentation, configuration records, architectural diagrams, platform inventory, and administrator procedures are maintained throughout the service lifecycle.
+          An all-in-one, fully hosted and managed enterprise software environment tailored to your organization. We deploy, secure, monitor, back up, and support your core business applications on dedicated single-tenant infrastructure—either on sovereign cloud nodes or via an on-premises InsightBox hybrid appliance. We maintain system documentation, configuration records, and administrator procedures throughout the service lifecycle.
 
 
       - title: Workflow & Process Automation
@@ -47,7 +47,7 @@ sections:
             url: /solutions/workflow-automation
             style: link
         content: >-
-          We help organisations eliminate repetitive manual work, reduce operational bottlenecks, improve process consistency, and prepare for AI-powered operations through secure, self-hosted automation and intelligence platforms. Rather than relying on multiple SaaS subscriptions and manual data transfers, organisations gain automated processes running 24/7 across their existing systems while retaining ownership, control, and visibility over their business data.
+          We help organisations eliminate repetitive manual work, reduce operational bottlenecks, improve process consistency, and prepare for AI-powered operations through secure, self-hosted automation and intelligence platforms. Instead of relying on multiple SaaS subscriptions and manual data transfers, organisations can run automated processes 24/7 across existing systems while retaining ownership, control, and visibility over business data.
 
 
 
