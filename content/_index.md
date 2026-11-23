@@ -30,7 +30,7 @@ sections:
     title: Services
     col_number: three
     grid_items:
-      - title: Managed Business Infrastructure and Systems
+      - title: Managed Business Systems
         image: images/service-2.svg
         actions:
           - label: Learn more →
