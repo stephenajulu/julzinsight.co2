@@ -27,108 +27,40 @@ sections:
 
   - type: grid_section
     section_id: solutions
-    title: JulzOS Pillars
-    subtitle: The sovereign Digital HQ — nine pillars unified under JulzOS.
+    title: Services
     col_number: three
     grid_items:
-      - title: The Bridge
-        image: images/thebridge.svg
+      - title: Managed Business Infrastructure and Systems
+        image: images/service-2.svg
         actions:
           - label: Learn more →
-            url: /solutions/the-bridge
+            url: /solutions/managed-business-infrastructure
             style: link
         content: >-
-          Your single pane of glass. The proprietary orchestration interface where centralized authentication meets real-time business insights, unifying all pillars into a single user experience.
+          An all-in-one, fully hosted and managed enterprise software environment tailored to your organization. We deploy, secure, monitor, back up, and support your core business applications on dedicated single-tenant infrastructure—either on sovereign cloud nodes or via an on-premises InsightBox hybrid appliance. System documentation, configuration records, architectural diagrams, platform inventory, and administrator procedures are maintained throughout the service lifecycle.
 
-          **The Advantage:** Seamless orchestration, unified control, and sovereign visibility.
 
-      - title: The Digital HQ
-        image: images/thedigitalhq.svg
+      - title: Workflow & Process Automation
+        image: images/service-1.svg
         actions:
           - label: Learn more →
-            url: /solutions/the-digital-hq
+            url: /solutions/workflow-automation
             style: link
         content: >-
-          Centralize your intellectual property. A high-performance, private workspace for secure file governance, calendar scheduling, team coordination, and internal knowledge bases.
+          We help organisations eliminate repetitive manual work, reduce operational bottlenecks, improve process consistency, and prepare for AI-powered operations through secure, self-hosted automation and intelligence platforms. Rather than relying on multiple SaaS subscriptions and manual data transfers, organisations gain automated processes running 24/7 across their existing systems while retaining ownership, control, and visibility over their business data.
 
-          **The Advantage:** Secure collaboration, private knowledge management, and enterprise-grade productivity.
 
-      - title: The Command Center
-        image: images/thecommandcenter.svg
+
+      - title: Executive Technology Advisory
+        image: images/service-3.svg
         actions:
           - label: Learn more →
-            url: /solutions/the-command-center
+            url: /solutions/workflow-automation
             style: link
         content: >-
-          Total operational visibility. Master your financial books, automated supply chains, manufacturing, and HR operations through a single, sovereign enterprise resource platform.
+           We provide independent technology leadership, systems assessment, governance oversight, and strategic guidance for organisations seeking enterprise-grade technology decision-making without maintaining an internal CIO or technology leadership team. We help business leaders make informed decisions about technology investments, vendor proposals, operational systems, cybersecurity, automation, and digital transformation initiatives. 
 
-          **The Advantage:** Unified operations, automated workflows, and sovereign ERP control.
 
-      - title: The War Room
-        image: images/thewarroom.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-war-room
-            style: link
-        content: >-
-          Real-time tactical execution. High-security, persistent team messaging and compliance-ready chat channels built for organizations that need to move fast without leaking data.
-
-          **The Advantage:** Secure communication, compliance-ready messaging, and tactical agility.
-
-      - title: The Iron Vault
-        image: images/theironvault.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-iron-vault
-            style: link
-        content: >-
-          Team-focused credential security. An enterprise-grade, open-source password manager designed for businesses to store, share, and audit sensitive server keys and corporate credentials securely.
-
-          **The Advantage:** Enterprise credential governance, auditability, and zero-trust storage.
-
-      - title: The Gatekeeper
-        image: images/thegatekeeper.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-gatekeeper
-            style: link
-        content: >-
-          Unified enterprise identity. A centralized security layer handling Single Sign-On (SSO) and Multi-Factor Authentication (MFA), governing exactly who has access to which pillar.
-
-          **The Advantage:** Centralized identity, secure access, and compliance-grade authentication.
-
-      - title: The Auto Pilot
-        image: images/theautopilot.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-auto-pilot
-            style: link
-        content: >-
-          Intelligent backend workflows. The low-code automation engine that connects your Digital HQ to your Command Center, eliminating manual data entry across your entire business stack.
-
-          **The Advantage:** Automated workflows, reduced manual overhead, and intelligent integration.
-
-      - title: The Guardian
-        image: images/theguardian.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-guardian
-            style: link
-        content: >-
-          Proactive platform resilience. 24/7 continuous health checks, real-time metrics, and automated status pages that catch infrastructure issues before your team or clients ever notice them.
-
-          **The Advantage:** Continuous observability, proactive resilience, and transparent uptime.
-
-      - title: The Citadel
-        image: images/thecitadel.svg
-        actions:
-          - label: Learn more →
-            url: /solutions/the-citadel
-            style: link
-        content: >-
-          Zero-Trust private networking. A configuration-free, peer-to-peer overlay network powered by WireGuard that securely connects your remote teams and servers without exposing ports to the public internet.
-
-          **The Advantage:** Secure networking, zero-trust isolation, and seamless remote connectivity.
 
   - type: cta_section
     section_id: cta
